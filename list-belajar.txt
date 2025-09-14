@@ -1,5 +1,4 @@
 HTML
-CSS
-Javascript
-ReactJS
-NextJS
+CSS - Container queries - CSS Nesting - Grid Level 3 // Utility-first styling - Tailwind CSS
+Javascript // Framework : ReactJS - NextJS // Vue // Angular
+Other JS Framework option : SolidJS or QWIK 
